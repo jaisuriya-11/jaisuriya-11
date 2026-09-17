@@ -1,5 +1,7 @@
 <!-- ============================================================ -->
 <!--  BANNER  →  drop your pixel banner here (gif or png)          -->
+<img width="736" height="414" alt="da95a49c9a39382f103c6ecdf835e51a" src="https://github.com/user-attachments/assets/44e37b90-cd38-49be-8c45-6ede1253eabe" />
+
 <!--  put the image in an /assets folder in your repo, or paste a  -->
 <!--  direct image URL in the src="" below                         -->
 <!-- ============================================================ -->
