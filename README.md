@@ -5,8 +5,6 @@
 <img width="736" height="414" alt="da95a49c9a39382f103c6ecdf835e51a" src="https://github.com/user-attachments/assets/62a97a7a-cf52-42b2-94c1-35a536c56620" />
 </div>
 
-<br />
-
 <!-- ============================================================ -->
 <!--  NAME + TAGLINE                                              -->
 <!-- ============================================================ -->
@@ -19,8 +17,6 @@
 <p align="center">
   📍 Bangalore, India &nbsp;·&nbsp; 🕗 UTC +05:30 &nbsp;·&nbsp; he/him
 </p>
-
-<br />
 
 <!-- ============================================================ -->
 <!--  ABOUT  →  terminal style                                    -->
@@ -38,14 +34,11 @@ $ cat about.md
 $ echo $INTERESTS
 > [ open-source, developer-tools, ai, web ]
 ```
-
-<br />
-
 <!-- ============================================================ -->
 <!--  TECH STACK                                                  -->
 <!-- ============================================================ -->
 
-### `> tech_stack`
+### `$ tech_stack`
 
 ```
 Languages   →  TypeScript · JavaScript · Python
@@ -53,14 +46,11 @@ Frontend    →  React · Next.js · Tailwind CSS
 Backend     →  Node.js · Express
 Tools       →  Git · Docker · Vercel
 ```
-
-<br />
-
 <!-- ============================================================ -->
 <!--  CONNECT                                                     -->
 <!-- ============================================================ -->
 
-### `> connect`
+### `$ connect`
 
 <p align="left">
   🌐 <a href="https://jaisur.vercel.app/">Portfolio</a> &nbsp;·&nbsp;
@@ -68,7 +58,7 @@ Tools       →  Git · Docker · Vercel
   🐙 <a href="https://github.com/jaisuriya-11">GitHub</a>
 </p>
 
-<br />
+
 
 <!-- ============================================================ -->
 <!--  FOOTER                                                      -->
@@ -76,5 +66,5 @@ Tools       →  Git · Docker · Vercel
 <div align="center">
   <code>─────────────  &lt;/&gt;  ─────────────</code>
   <br /><br />
-  <sub><code>thanks for scrolling — now go build something.</code></sub>
+  <sub><code>Thanks for scrolling — now go build something.</code></sub>
 </div>
