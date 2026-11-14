@@ -11,7 +11,7 @@
 ⠀⠀⠀⠀⠐⠠⠱⡈⡒⡀⠛⢦⡈⡺⣽⢾⣻⢶⣧⣄⠀⠀⢨⣷⡝⣿⣿⡽⣿⣜⠂⠂⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   Frontend: React, TypeScript, GraphQL
 ⠀⠀⠀⡀⠀⠀⠈⠈⠪⠤⡑⢀⢝⠲⢯⢿⣿⣽⣛⣞⣿⣽⣿⢿⣿⡞⡿⡟⣿⣿⡎⡐⠙⣣⡀⠀⠀⠀⠀⠀⠀⠀⠀   Backend: Node.js, Laravel, Python, Go
 ⠀⠀⠀⠂⡀⡀⠀⠀⠂⠀⠁⡣⠐⡀⡊⢙⢶⣯⣟⢿⢯⣯⣾⣿⣷⢯⡯⣿⣽⣻⣗⠠⠀⠈⣳⡆⠀⠂⠀⠀⠀⠀⠀   Cloud: AWS, Docker
-⠀⠀⠀⠀⠀⡀⠂⢀⠀⠀⠁⠀⠀⠀⠎⢂⢁⢌⢋⠯⡵⡷⡷⣷⣷⣻⣣⣿⢿⠿⡁⠃⠁⠄⠘⡎⠢⢄⠀⠀⠀⠀⠀   Portfolio: <a href="https://jaisur.vercel.app/">jaisur.vercel.app</a>
+⠀⠀⠀⠀⠀⡀⠂⢀⠀⠀⠁⠀⠀⠀⠎⢂⢁⢌⢋⠯⡵⡷⡷⣷⣷⣻⣣⣿⢿⠿⡁⠃⠁⠄⠘⡎⠢⢄⠀⠀⠀⠀⠀   Portfolio: <a href="https://jais.is-a.dev">jais.is-a.dev</a>
 ⠀⠀⠀⠀⠀⠈⠀⠀⠀⠘⡀⠀⢀⠀⠀⠄⠁⢁⢓⡬⡐⠍⠣⡊⣢⢩⠝⢈⡑⡜⠀⠀⠈⢀⢈⢵⡐⠌⠀⠀⠀⠀⠀   Email: <a href="mailto:jaisuriya200297@gmail.com">jaisuriya200297@gmail.com</a>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠩⠒⠢⠤⢄⣄⣀⡇⢣⠋⣑⠈⡈⠡⠈⡀⠀⡀⠠⢈⠐⠀⡲⠛⠇⠃⠈⠀⠀⠠⠀   LeetCode: <a href="https://leetcode.com/u/jai_sa/">@jai_sa</a>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠁⠙⠈⠚⠿⠚⠞⠉⠰⠈⠑⠈⠘⠁⠈⠐⡕⠘⠉⠀⠀⠀⠀⠀⠀⠀⠀
